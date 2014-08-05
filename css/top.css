@@ -1,0 +1,194 @@
+#t_img
+{
+	padding: 50px 50px 20px 80px;
+}
+#sideshadow
+{
+	position: absolute; 
+	margin: 100px 0px 0px 390px;
+}
+#bottomshadow
+{
+	position: absolute; 
+	margin: 1048px 0px 0px 373px;
+}
+#menutopdiv
+{
+	width: 500px;
+	height: 30px;
+	position: absolute;
+	margin: 50px  0px 0px 0px;
+}
+#menutopdiv li
+{
+	padding: 0px;
+}
+
+/* Main Menu Buttons */
+#menutop li a
+{
+	text-decoration: none;
+	margin: 0px;
+	padding: 5px 7px;
+}
+ #menutop li
+ {
+	list-style: none;
+	display: inline;
+	margin: 0px;
+	padding: 10px 5px;
+ }
+ #menutop li.btn a:hover, li.btn:hover
+ {
+	background: #d3cadd;
+ }
+
+ 
+
+ /*  Drop Staffing Btn*/
+  #menutop li ul.dropStaff
+ {
+	display: none;
+	padding: 0;
+	margin: 0;
+ }
+#menutop li ul.dropStaff a
+ {
+	padding: 0px;
+	margin: 0px;
+ }
+#menutop li:hover ul.dropStaff
+ {
+ 	width: 105px;
+	height: 120px;
+ 	display: block;
+	position: absolute;
+	margin: 8px 0 0 67px;
+	padding: 10px;
+	background: #ede9f1;
+	line-height: 190%;
+	border-radius: 0 7px 7px 7px;
+	border-top: 4px solid #d3cadd;
+	border-left: 4px solid #d4cadd;
+ } 
+ #menutop li:hover ul.dropStaff a:hover
+ {
+	background: none;
+	color: #48879e;
+ } 
+
+
+ 
+ /*  Drop Virtual Assistants Btn*/
+  #menutop li ul.dropVirtual
+ {
+	display: none;
+	padding: 0;
+	margin: 0;
+ }
+  #menutop li:hover ul.dropVirtual li
+ {
+	margin: 10px 0px 0px -10px;
+ }
+  #menutop li:hover ul.dropVirtual a:hover
+ {
+	background: none;
+	color: #48879e;
+ } 
+#menutop li:hover ul.dropVirtual
+ {
+	width: 250px;
+	height: 55px;
+ 	display: block;
+	position: absolute;
+	margin: 8px 0 0 147px;
+	padding: 10px;
+	line-height: 190%;
+	background: #ede9f1;
+	border-radius: 0 7px 7px 7px;
+	border-top: 4px solid #d3cadd;
+	border-left: 4px solid #d4cadd;
+ }
+ 
+ 
+ /*  Drop Care Companions Btn */
+  #menutop li ul.dropComp
+ {
+	display: none;
+	padding: 0;
+	margin: 0;
+ }
+  #menutop li:hover ul.dropComp li
+ {
+	margin: 10px 0px 0px -10px;
+ }
+ #menutop li:hover ul.dropComp a:hover
+ {
+	background: none;
+	color: #48879e;
+ } 
+#menutop li:hover ul.dropComp
+ {
+	width: 110px;
+	heigth: 200px;
+ 	display: block;
+	position: absolute;
+	margin: 7px 0 0 294px;	
+	padding: 10px;
+	line-height: 190%;
+	background: #ede9f1;
+	border-radius: 0 7px 7px 7px;
+	border-top: 4px solid #d3cadd;
+	border-left: 4px solid #d4cadd;
+ }
+ 
+  /*  Drop Care Runners Btn */
+  #menutop li ul.dropRun
+ {
+	display: none;
+	padding: 0;
+	margin: 0;
+ }
+  #menutop li:hover ul.dropRun li
+ {
+	margin: 10px 0px 0px -10px;
+ }
+ #menutop li:hover ul.dropRun a:hover
+ {
+	background: none;
+	color: #48879e;
+ } 
+#menutop li:hover ul.dropRun
+ {
+	width: 110px;
+	heigth: 200px;
+ 	display: block;
+	position: absolute;
+	margin: 7px 0 0 408px;	
+	padding: 10px;
+	line-height: 190%;
+	background: #ede9f1;
+	border-radius: 0 7px 7px 7px;
+	border-top: 4px solid #d3cadd;
+	border-left: 4px solid #d4cadd;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

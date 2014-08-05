@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+/* Global css */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td 
+{
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	color: #000;
+}
+body 
+{
+	background: url(../images/wavegrid.png) repeat;
+	/*font-family: Veranda, sans-serif;*/
+	font-family: Helvetica;
+}
+ul, ol, dl 
+{}
+h1
+{
+}
+h2, h3 , h4, h5, h6
+{	
+}
+a:link , a:visited, a:hover, a:active, a:focus 
+{
+}
+#container
+{
+	width: 1000px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../images/purplerepeatups.png) repeat;
+	border: 5px solid white;
+}
+#top
+{
+	width: 1000px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background: #A87890;*/
+	background: url(../images/topgradient.png) repeat;
+}
+#winglogo
+{	
+	width: 210px;
+	height: 80px;
+	margin-left: 100px;
+	padding-top: 10px;
+}
+
+#middle
+{
+	float: left;
+	margin-left: 100px;
+	width: 300px;
+	height: 850px;
+	/*background: #e3e0e0;*/
+	background: #f0f0f7;
+	font-size: 13px;
+}
+#m_label
+{
+	padding: 10px;
+	font-weight: bold;
+}
+#m_text
+{
+	padding: 10px;
+}
+#m_list a
+{
+	text-decoration: none;
+}
+#m_list
+{
+	padding: 10px;
+	list-style: none;
+	line-height: 150%;
+}
+#m_img
+{
+	padding: 15px 30px;
+}
+
+#bottom
+{
+	width: 1000px;
+	height: 150px;
+	margin-top: 850px;
+	background: url(../images/bluegradient.png) repeat;
+}

@@ -1,0 +1,74 @@
+/*  Island styles  */
+/*500 x 950*/
+#island
+{
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 0px;
+	width: 500px;
+	height: 1050px;
+}
+#content
+{
+	background: white;
+	width: 500px;
+	height: 950px;
+	margin: -90px 0 0 0;
+	/*position: absolute;
+	margin: 100px 0 0 0;*/
+}
+#intro
+{
+	width: 500px;
+	height: 245px;
+	margin: 195px 0 0 0;
+}
+p.i_heading
+{
+	font-size: 130%;
+	padding: 60px 0px 0px 20px;
+	float: left;
+}
+#i_img
+{
+	float: right;
+	padding: 20px 20px 0px 10px;
+}
+#i_labelimg
+{
+	padding: 20px 25px;
+}
+p.i_paragraph
+{
+	padding: 40px;
+	line-height: 150%;
+}
+#i_middlediv
+{
+	/*margin-top: 190px;*/
+	margin-top: -100px;
+}
+#i_leftblock
+{
+	float: left;
+	width: 250px;
+	height: auto;
+}
+#i_rightblock
+{
+	float: right;
+	width: 250px;
+	height: auto;
+}
+#i_labels
+{
+	font-weight: bold;
+	text-align: center;
+	/*padding: 5px 20px 10px 20px;*/
+}
+p.i_labeltext
+{
+	line-height: 170%;
+	padding: 0px 10px;
+	margin: 10px;
+}
